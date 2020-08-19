@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.educompany.popi",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "popi",
+    "packageName": "com.educompany.popi",
+    "packageFolder": "com/educompany/popi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Mzk5ZTA3ZDZhMWUwYjQxM2MzZmY0ZDU2M2QyYzZkZmQ3NmI5NTQ0NzMyMGM0OWVlYmYyOGU2MjE0Zjc0MzBiNTQ3NTE3YzIxOTJjY2NiZWM1YzUzYzgwZWJjMDQyZjQ4MWNmMGNiMzJhMWNhMDNiNWQxOGNkNjMyMzgyNDUyN2M=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "superhero",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1597861529195,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "es"],
+    "blueprints": []
+  }
+}
